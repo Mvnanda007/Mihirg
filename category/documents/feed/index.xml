@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Documents &#8211; Mihirkumar Nanda</title>
+	<atom:link href="/mvnanda007.github.io/mihirg/category/documents/feed/" rel="self" type="application/rss+xml" />
+	<link>/mvnanda007.github.io/mihirg</link>
+	<description>A personal blog</description>
+	<lastBuildDate>Fri, 28 Sep 2018 15:07:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>/mvnanda007.github.io/mihirg/wp-content/uploads/2018/08/cropped-Untitled-1-1-32x32.png</url>
+	<title>Documents &#8211; Mihirkumar Nanda</title>
+	<link>/mvnanda007.github.io/mihirg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Download my resume</title>
+		<link>/mvnanda007.github.io/mihirg/2018/09/12/download-my-resume/</link>
+		<comments>/mvnanda007.github.io/mihirg/2018/09/12/download-my-resume/#respond</comments>
+		<pubDate>Wed, 12 Sep 2018 09:13:45 +0000</pubDate>
+		<dc:creator><![CDATA[mvnanda007]]></dc:creator>
+				<category><![CDATA[Documents]]></category>
+
+		<guid isPermaLink="false">/mvnanda007.github.io/mihirg/?p=98</guid>
+		<description><![CDATA[Mihirkumar Nanda]]></description>
+				<content:encoded><![CDATA[<p><a href="/mvnanda007.github.io/mihirg/wp-content/uploads/2018/09/Mihirkumar-Nanda.pdf">Mihirkumar Nanda</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/mvnanda007.github.io/mihirg/2018/09/12/download-my-resume/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

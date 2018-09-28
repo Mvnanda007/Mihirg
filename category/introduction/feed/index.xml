@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>introduction &#8211; Mihirkumar Nanda</title>
+	<atom:link href="/mvnanda007.github.io/mihirg/category/introduction/feed/" rel="self" type="application/rss+xml" />
+	<link>/mvnanda007.github.io/mihirg</link>
+	<description>A personal blog</description>
+	<lastBuildDate>Fri, 28 Sep 2018 15:07:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>/mvnanda007.github.io/mihirg/wp-content/uploads/2018/08/cropped-Untitled-1-1-32x32.png</url>
+	<title>introduction &#8211; Mihirkumar Nanda</title>
+	<link>/mvnanda007.github.io/mihirg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Introduction</title>
+		<link>/mvnanda007.github.io/mihirg/2018/08/21/example/</link>
+		<comments>/mvnanda007.github.io/mihirg/2018/08/21/example/#respond</comments>
+		<pubDate>Tue, 21 Aug 2018 17:28:22 +0000</pubDate>
+		<dc:creator><![CDATA[mvnanda007]]></dc:creator>
+				<category><![CDATA[introduction]]></category>
+
+		<guid isPermaLink="false">/mvnanda007.github.io/mihirg/?p=5</guid>
+		<description><![CDATA[My name is Mihirkumar Vasantbhai Nanda. Right now I am studying in Parul University in Computer Science &#38; Engineering department. I am good at coding in languages like HTML5, CSS3, JavaScript &#38; Python. Also I am developer of WordPress where I like to make websites like blog, e-commerce etc. I like to learn new things and new coding languages! In my hobbies, <a href="/mvnanda007.github.io/mihirg/2018/08/21/example/" rel="nofollow"><span class="sr-only">Read more about Introduction</span>[&#8230;]</a>]]></description>
+				<content:encoded><![CDATA[<p>My name is <strong>Mihirkumar Vasantbhai Nanda</strong>. Right now I am studying in <strong>Parul University </strong>in <strong>Computer Science &amp; Engineering department. </strong>I am good at coding in languages like <em>HTML5, CSS3, JavaScript &amp; Python. </em>Also I am developer of <em>WordPress</em> where I like to make websites like blog, e-commerce etc. I like to learn new things and new coding languages! In my hobbies, I just love to do photography in my free time, on the other side I am a professional photographer also. I used to do Wedding photo shoot, Baby Shoot, Prewedding Photo shoot and Cinematography. In editing I use software like Adobe photoshop, Adobe Lightroom, Sony Vegas Pro. And I have very nice grip on all that three software.</p>
+]]></content:encoded>
+			<wfw:commentRss>/mvnanda007.github.io/mihirg/2018/08/21/example/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
